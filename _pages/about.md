@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-  I am a Ph.D. student at **Tsinghua University**,
+I am a Ph.D. student at **Tsinghua University**,
 working on large language models (LLMs).
 
 My research focuses on efficient knowledge aggregation
