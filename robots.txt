@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bw-wang19.github.io/al-folio/sitemap.xml
+Sitemap: https://bw-wang19.github.io/sitemap.xml
