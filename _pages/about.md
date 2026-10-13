@@ -7,10 +7,10 @@ subtitle: "Ph.D. Student | Large Language Models"
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
-    <p>Your University</p>
-    <p>Your Department or Lab</p>
+    <p>Tsinghua University</p>
+    <p>Shenzhen International Graduated School</p>
 
 selected_papers: true
 social: true
