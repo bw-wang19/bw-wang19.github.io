@@ -22,15 +22,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student at **Tsinghua University**,
-working on large language models (LLMs).
+I am a Ph.D. student at **Tsinghua University**, working on large language models (LLMs).
 
-My research focuses on efficient knowledge aggregation
-and model adaptation, particularly parameter-space
-methods that integrate knowledge from multiple models.
+My research focuses on efficient knowledge aggregation and model adaptation, particularly parameter-space methods that integrate knowledge from multiple models.
 
-I am also interested in multimodal learning,
-vision-language-action models, and robotic learning.
+I am also interested in multimodal learning, vision-language-action models, and robotic learning.
 
 ## Research Interests
 
